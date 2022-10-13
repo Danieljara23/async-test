@@ -1,0 +1,14 @@
+{
+  "name": "async-testing",
+  "version": "1.0.0",
+  "description": "This is a small project to serve as a small guide to test asyncronous tasks in JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Daniel Jaramillo G",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
+}
